@@ -1,11 +1,6 @@
 ## TorrServer
 TorrServer, torrent to http
 
-### Donate:
-[PayPal](https://www.paypal.me/yourok)
-
-[Yandex.Деньги](https://money.yandex.ru/to/410013733697114/100)
-
 ### Thanks to everyone who tested and helped
 
 ###### **Anacrolix Matt Joiner** [github.com/anacrolix](https://github.com/anacrolix/)
